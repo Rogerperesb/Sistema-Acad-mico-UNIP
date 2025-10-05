@@ -1,0 +1,28 @@
+========================================
+ RELATÓRIO DE DADOS - SISTEMA ACADÊMICO
+========================================
+
+=== ALUNOS CADASTRADOS ===
+Nome: João Silva
+Notas: [8, 5, 6]
+Média: 6.33
+Status: Muito bem, foi APROVADO.
+----------------------------------------
+Nome: Maria Isabel
+Notas: [8, 4, 8]
+Média: 6.67
+Status: Muito bem, foi APROVADO.
+----------------------------------------
+Nome: Aluno Bruno
+Notas: [6, 8, 2]
+Média: 5.33
+Status: Muito bem, foi APROVADO.
+----------------------------------------
+
+=== TURMAS CADASTRADAS ===
+Código: ADS 2025
+Alunos na turma: 2
+----------------------------------------
+
+=== AULAS REGISTRADAS ===
+Nenhuma aula registrada.

@@ -1,0 +1,60 @@
+{
+    "alunos": [
+        {
+            "nome": "João Silva",
+            "matricula": "123456",
+            "curso": "Análise e Desenvolvimento de Sistemas",
+            "notas": [
+                8,
+                5,
+                6
+            ],
+            "media": 6.33,
+            "status": "Muito bem, foi APROVADO.",
+            "insight": "Bom, mas pode melhorar."
+        },
+        {
+            "nome": "Maria Isabel",
+            "matricula": "123456",
+            "curso": "Análise e Desenvolvimento de Sistemas",
+            "notas": [
+                8,
+                4,
+                8
+            ],
+            "media": 6.67,
+            "status": "Muito bem, foi APROVADO.",
+            "insight": "Bom, mas pode melhorar."
+        },
+        {
+            "nome": "Aluno Bruno",
+            "matricula": "123456",
+            "curso": "Análise e Desenvolvimento de Sistemas",
+            "notas": [
+                6,
+                8,
+                2
+            ],
+            "media": 5.33,
+            "status": "Muito bem, foi APROVADO.",
+            "insight": "Atenção! Revise conteúdos para melhorar sua média."
+        }
+    ],
+    "turmas": [
+        {
+            "codigo": "ADS 2025",
+            "disciplina": "Eng. de Software",
+            "alunos": [
+                {
+                    "nome": "João Silva",
+                    "matricula": "123456"
+                },
+                {
+                    "nome": "Maria Isabel",
+                    "matricula": "123456"
+                }
+            ]
+        }
+    ],
+    "aulas": []
+}
